@@ -24,7 +24,6 @@ venv/
 ENV/
 
 # Project-specific
-output/
 *.pdf
 *.log
 .DS_Store
@@ -41,7 +40,6 @@ sin_asociar/
 
 # Test/scratch
 samples/
-source/
 unmatched-stickers.json
 match_run*.log
 rematch_run*.log

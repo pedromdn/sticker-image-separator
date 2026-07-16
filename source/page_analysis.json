@@ -1,0 +1,758 @@
+[
+  {
+    "page": 1,
+    "filename": "page_001.png",
+    "local_grid": [
+      4,
+      4
+    ],
+    "local_conf": [
+      2,
+      2
+    ],
+    "stickers_local": 16,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 2,
+    "filename": "page_002.png",
+    "local_grid": [
+      4,
+      4
+    ],
+    "local_conf": [
+      3,
+      3
+    ],
+    "stickers_local": 16,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 3,
+    "filename": "page_003.png",
+    "local_grid": [
+      4,
+      4
+    ],
+    "local_conf": [
+      2,
+      2
+    ],
+    "stickers_local": 16,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 4,
+    "filename": "page_004.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 5,
+    "filename": "page_005.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 6,
+    "filename": "page_006.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 7,
+    "filename": "page_007.png",
+    "local_grid": [
+      4,
+      1
+    ],
+    "local_conf": [
+      1,
+      1
+    ],
+    "stickers_local": 4,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 8,
+    "filename": "page_008.png",
+    "local_grid": [
+      1,
+      4
+    ],
+    "local_conf": [
+      0,
+      3
+    ],
+    "stickers_local": 4,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 9,
+    "filename": "page_009.png",
+    "local_grid": [
+      1,
+      4
+    ],
+    "local_conf": [
+      1,
+      2
+    ],
+    "stickers_local": 4,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 10,
+    "filename": "page_010.png",
+    "local_grid": [
+      12,
+      4
+    ],
+    "local_conf": [
+      3,
+      2
+    ],
+    "stickers_local": 48,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 11,
+    "filename": "page_011.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 12,
+    "filename": "page_012.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 13,
+    "filename": "page_013.png",
+    "local_grid": [
+      1,
+      4
+    ],
+    "local_conf": [
+      0,
+      1
+    ],
+    "stickers_local": 4,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 14,
+    "filename": "page_014.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 15,
+    "filename": "page_015.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 16,
+    "filename": "page_016.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 17,
+    "filename": "page_017.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 18,
+    "filename": "page_018.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 19,
+    "filename": "page_019.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 20,
+    "filename": "page_020.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 21,
+    "filename": "page_021.png",
+    "local_grid": [
+      1,
+      4
+    ],
+    "local_conf": [
+      0,
+      2
+    ],
+    "stickers_local": 4,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 22,
+    "filename": "page_022.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 23,
+    "filename": "page_023.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 24,
+    "filename": "page_024.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 25,
+    "filename": "page_025.png",
+    "local_grid": [
+      1,
+      4
+    ],
+    "local_conf": [
+      0,
+      1
+    ],
+    "stickers_local": 4,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 26,
+    "filename": "page_026.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 27,
+    "filename": "page_027.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 28,
+    "filename": "page_028.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 29,
+    "filename": "page_029.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 30,
+    "filename": "page_030.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 31,
+    "filename": "page_031.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 32,
+    "filename": "page_032.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 33,
+    "filename": "page_033.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 34,
+    "filename": "page_034.png",
+    "local_grid": [
+      4,
+      4
+    ],
+    "local_conf": [
+      3,
+      3
+    ],
+    "stickers_local": 16,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 35,
+    "filename": "page_035.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 36,
+    "filename": "page_036.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 37,
+    "filename": "page_037.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 38,
+    "filename": "page_038.png",
+    "local_grid": [
+      4,
+      2
+    ],
+    "local_conf": [
+      3,
+      1
+    ],
+    "stickers_local": 8,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 39,
+    "filename": "page_039.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 40,
+    "filename": "page_040.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 41,
+    "filename": "page_041.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 42,
+    "filename": "page_042.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 43,
+    "filename": "page_043.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 44,
+    "filename": "page_044.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      1
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 45,
+    "filename": "page_045.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 46,
+    "filename": "page_046.png",
+    "local_grid": [
+      2,
+      4
+    ],
+    "local_conf": [
+      1,
+      1
+    ],
+    "stickers_local": 8,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 47,
+    "filename": "page_047.png",
+    "local_grid": [
+      4,
+      4
+    ],
+    "local_conf": [
+      3,
+      3
+    ],
+    "stickers_local": 16,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 48,
+    "filename": "page_048.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      1
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 49,
+    "filename": "page_049.png",
+    "local_grid": [
+      2,
+      1
+    ],
+    "local_conf": [
+      1,
+      0
+    ],
+    "stickers_local": 2,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 50,
+    "filename": "page_050.png",
+    "local_grid": [
+      4,
+      2
+    ],
+    "local_conf": [
+      1,
+      1
+    ],
+    "stickers_local": 8,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 51,
+    "filename": "page_051.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 52,
+    "filename": "page_052.png",
+    "local_grid": [
+      1,
+      1
+    ],
+    "local_conf": [
+      0,
+      0
+    ],
+    "stickers_local": 1,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 53,
+    "filename": "page_053.png",
+    "local_grid": [
+      1,
+      4
+    ],
+    "local_conf": [
+      0,
+      1
+    ],
+    "stickers_local": 4,
+    "stickers_4x4": 16
+  },
+  {
+    "page": 54,
+    "filename": "page_054.png",
+    "local_grid": [
+      4,
+      4
+    ],
+    "local_conf": [
+      2,
+      3
+    ],
+    "stickers_local": 16,
+    "stickers_4x4": 16
+  }
+]
