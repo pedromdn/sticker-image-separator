@@ -27,9 +27,6 @@ ENV/
 *.pdf
 *.log
 .DS_Store
-debug/
-done/
-sin_asociar/
 
 # IDE
 .vscode/
