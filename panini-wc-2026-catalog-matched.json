@@ -24,18 +24,20 @@
     {
       "code": "FWC3",
       "name": "Official Mascots",
-      "team": "FIFA World Cup 2026"
+      "team": "FIFA World Cup 2026",
+      "img": "0224.png"
     },
     {
       "code": "FWC4",
       "name": "Official Slogan",
-      "team": "FIFA World Cup 2026"
+      "team": "FIFA World Cup 2026",
+      "img": "0152.png"
     },
     {
       "code": "FWC5",
       "name": "Official Ball",
       "team": "FIFA World Cup 2026",
-      "img": "0465.png"
+      "img": "0144.png"
     },
     {
       "code": "FWC6",
@@ -45,17 +47,20 @@
     {
       "code": "FWC7",
       "name": "Mexico",
-      "team": "Host Countries and Cities"
+      "team": "Host Countries and Cities",
+      "img": "0159.png"
     },
     {
       "code": "FWC8",
       "name": "USA",
-      "team": "Host Countries and Cities"
+      "team": "Host Countries and Cities",
+      "img": "0255.png"
     },
     {
       "code": "MEX1",
       "name": "Emblem",
-      "team": "Mexico"
+      "team": "Mexico",
+      "img": "0529.png"
     },
     {
       "code": "MEX2",
@@ -78,7 +83,8 @@
     {
       "code": "MEX5",
       "name": "Cesar Montes",
-      "team": "Mexico"
+      "team": "Mexico",
+      "img": "0534.png"
     },
     {
       "code": "MEX6",
@@ -283,7 +289,8 @@
     {
       "code": "KOR1",
       "name": "Emblem",
-      "team": "South Korea"
+      "team": "South Korea",
+      "img": "0241.png"
     },
     {
       "code": "KOR2",
@@ -396,7 +403,8 @@
     {
       "code": "CZE1",
       "name": "Emblem",
-      "team": "Czechia"
+      "team": "Czechia",
+      "img": "0677.png"
     },
     {
       "code": "CZE2",
@@ -629,7 +637,8 @@
     {
       "code": "BIH1",
       "name": "Emblem",
-      "team": "Bosnia and Herzegovina"
+      "team": "Bosnia and Herzegovina",
+      "img": "0129.png"
     },
     {
       "code": "BIH2",
@@ -853,7 +862,8 @@
     {
       "code": "SUI1",
       "name": "Emblem",
-      "team": "Switzerland"
+      "team": "Switzerland",
+      "img": "0733.png"
     },
     {
       "code": "SUI2",
@@ -969,7 +979,8 @@
     {
       "code": "BRA1",
       "name": "Emblem",
-      "team": "Brazil"
+      "team": "Brazil",
+      "img": "0149.png"
     },
     {
       "code": "BRA2",
@@ -981,7 +992,7 @@
       "code": "BRA3",
       "name": "Bento",
       "team": "Brazil",
-      "img": "0129.png"
+      "img": "0162.png"
     },
     {
       "code": "BRA4",
@@ -1087,7 +1098,8 @@
     {
       "code": "MAR1",
       "name": "Emblem",
-      "team": "Morocco"
+      "team": "Morocco",
+      "img": "0513.png"
     },
     {
       "code": "MAR2",
@@ -1200,7 +1212,8 @@
     {
       "code": "HAI1",
       "name": "Emblem",
-      "team": "Haiti"
+      "team": "Haiti",
+      "img": "0417.png"
     },
     {
       "code": "HAI2",
@@ -1684,7 +1697,8 @@
     {
       "code": "AUS5",
       "name": "Alessandro Circati",
-      "team": "Australia"
+      "team": "Australia",
+      "img": "0083.png"
     },
     {
       "code": "AUS6",
@@ -1774,7 +1788,8 @@
     {
       "code": "TUR1",
       "name": "Emblem",
-      "team": "Türkiye"
+      "team": "Türkiye",
+      "img": "0765.png"
     },
     {
       "code": "TUR2",
@@ -1892,7 +1907,8 @@
     {
       "code": "GER1",
       "name": "Emblem",
-      "team": "Germany"
+      "team": "Germany",
+      "img": "0001.png"
     },
     {
       "code": "GER2",
@@ -1991,8 +2007,7 @@
     {
       "code": "GER18",
       "name": "Leroy Sane",
-      "team": "Germany",
-      "img": "0733.png"
+      "team": "Germany"
     },
     {
       "code": "GER19",
@@ -2008,7 +2023,8 @@
     {
       "code": "CUW1",
       "name": "Emblem",
-      "team": "Curaçao"
+      "team": "Curaçao",
+      "img": "0289.png"
     },
     {
       "code": "CUW2",
@@ -2124,7 +2140,8 @@
     {
       "code": "CIV1",
       "name": "Emblem",
-      "team": "Ivory Coast"
+      "team": "Ivory Coast",
+      "img": "00257.png"
     },
     {
       "code": "CIV2",
@@ -2241,7 +2258,8 @@
     {
       "code": "ECU1",
       "name": "Emblem",
-      "team": "Ecuador"
+      "team": "Ecuador",
+      "img": "0305.png"
     },
     {
       "code": "ECU2",
@@ -2360,7 +2378,8 @@
     {
       "code": "NED1",
       "name": "Emblem",
-      "team": "Netherlands"
+      "team": "Netherlands",
+      "img": "0581.png"
     },
     {
       "code": "NED2",
@@ -2589,7 +2608,8 @@
     {
       "code": "SWE1",
       "name": "Emblem",
-      "team": "Sweden"
+      "team": "Sweden",
+      "img": "0721.png"
     },
     {
       "code": "SWE2",
@@ -2623,7 +2643,6 @@
       "code": "SWE7",
       "name": "Gustaf Lagerbielke",
       "team": "Sweden",
-      "img": "0401.png"
     },
     {
       "code": "SWE8",
@@ -2700,7 +2719,8 @@
     {
       "code": "TUN1",
       "name": "Emblem",
-      "team": "Tunisia"
+      "team": "Tunisia",
+      "img": "0749.png"
     },
     {
       "code": "TUN2",
@@ -2932,7 +2952,8 @@
     {
       "code": "EGY1",
       "name": "Emblem",
-      "team": "Egypt"
+      "team": "Egypt",
+      "img": "0321.png"
     },
     {
       "code": "EGY2",
@@ -3041,7 +3062,8 @@
     {
       "code": "IRN1",
       "name": "Emblem",
-      "team": "Iran"
+      "team": "Iran",
+      "img": "0449.png"
     },
     {
       "code": "IRN2",
@@ -3156,7 +3178,8 @@
     {
       "code": "NZL1",
       "name": "Emblem",
-      "team": "New Zealand"
+      "team": "New Zealand",
+      "img": "0565.png"
     },
     {
       "code": "NZL2",
@@ -3501,12 +3524,13 @@
       "code": "CPV20",
       "name": "Bebe",
       "team": "Cape Verde",
-      "img": "0143.png"
+      "img": "0177.png"
     },
     {
       "code": "KSA1",
       "name": "Emblem",
-      "team": "Saudi Arabia"
+      "team": "Saudi Arabia",
+      "img": "0017.png"
     },
     {
       "code": "KSA2",
@@ -3620,7 +3644,8 @@
     {
       "code": "URU1",
       "name": "Emblem",
-      "team": "Uruguay"
+      "team": "Uruguay",
+      "img": "0781.png"
     },
     {
       "code": "URU2",
@@ -3735,7 +3760,8 @@
     {
       "code": "FRA1",
       "name": "Emblem",
-      "team": "France"
+      "team": "France",
+      "img": "0385.png"
     },
     {
       "code": "FRA2",
@@ -3966,7 +3992,8 @@
     {
       "code": "IRQ1",
       "name": "Emblem",
-      "team": "Iraq"
+      "team": "Iraq",
+      "img": "0465.png"
     },
     {
       "code": "IRQ2",
@@ -4082,7 +4109,8 @@
     {
       "code": "NOR1",
       "name": "Emblem",
-      "team": "Norway"
+      "team": "Norway",
+      "img": "0549.png"
     },
     {
       "code": "NOR2",
@@ -4196,7 +4224,8 @@
     {
       "code": "ARG1",
       "name": "Emblem",
-      "team": "Argentina"
+      "team": "Argentina",
+      "img": "0049.png"
     },
     {
       "code": "ARG2",
@@ -4419,7 +4448,8 @@
     {
       "code": "ALG19",
       "name": "Baghdad Bounedjah",
-      "team": "Algeria"
+      "team": "Algeria",
+      "img": "0040.png"
     },
     {
       "code": "ALG20",
@@ -4430,7 +4460,8 @@
     {
       "code": "AUT1",
       "name": "Emblem",
-      "team": "Austria"
+      "team": "Austria",
+      "img": "0097.png"
     },
     {
       "code": "AUT2",
@@ -4546,7 +4577,8 @@
     {
       "code": "JOR1",
       "name": "Emblem",
-      "team": "Jordan"
+      "team": "Jordan",
+      "img": "0497.png"
     },
     {
       "code": "JOR2",
@@ -4663,7 +4695,8 @@
     {
       "code": "POR1",
       "name": "Emblem",
-      "team": "Portugal"
+      "team": "Portugal",
+      "img": "0766.png"
     },
     {
       "code": "POR2",
@@ -4781,7 +4814,8 @@
     {
       "code": "COD1",
       "name": "Emblem",
-      "team": "Congo DR"
+      "team": "Congo DR",
+      "img": "0661.png"
     },
     {
       "code": "COD2",
@@ -4898,7 +4932,8 @@
     {
       "code": "UZB1",
       "name": "Emblem",
-      "team": "Uzbekistan"
+      "team": "Uzbekistan",
+      "img": "0797.png"
     },
     {
       "code": "UZB2",
@@ -5132,7 +5167,8 @@
     {
       "code": "ENG1",
       "name": "Emblem",
-      "team": "England"
+      "team": "England",
+      "img": "0433.png"
     },
     {
       "code": "ENG2",
@@ -5362,7 +5398,8 @@
     {
       "code": "GHA1",
       "name": "Emblem",
-      "team": "Ghana"
+      "team": "Ghana",
+      "img": "0401.png"
     },
     {
       "code": "GHA2",
@@ -5478,7 +5515,8 @@
     {
       "code": "PAN1",
       "name": "Emblem",
-      "team": "Panama"
+      "team": "Panama",
+      "img": "0597.png"
     },
     {
       "code": "PAN2",
@@ -5636,8 +5674,7 @@
     {
       "code": "FWC17",
       "name": "Italy 2006",
-      "team": "FIFA World Cup History",
-      "img": "0797.png"
+      "team": "FIFA World Cup History"
     },
     {
       "code": "FWC18",
